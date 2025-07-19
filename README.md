@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atsibizov
 - 👀 I’m interested in the new technologies, environment developers, gameDev, data analysis
-- 🌱 I’m currently learning python language, structured quared language SQL
+- 🌱 I’m currently learning python language, structured query language SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on telegram @atsibizzov
 - 😄 Pronouns: ...
